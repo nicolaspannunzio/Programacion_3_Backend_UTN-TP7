@@ -32,4 +32,4 @@ El proyecto sigue el paradigma de **POO**, con herencia desde una clase abstract
 ## Autor
 
 **Nicolás A. Pannunzio** – Full Stack Developer & QA Specialist
-🔗 [Perfil de LinkedIn](#)
+🔗 [Perfil de LinkedIn](https://www.linkedin.com/in/nicolas-a-pannunzio-/)
