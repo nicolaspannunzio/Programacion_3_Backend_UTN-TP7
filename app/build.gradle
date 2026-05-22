@@ -1,0 +1,21 @@
+plugins {
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation libs.junit.jupiter
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+    implementation libs.guava
+}
+
+application {
+    mainClass = 'com.example.TP7.ProgramacionFuncional.Main'
+}
+
+tasks.named('test') {
+    useJUnitPlatform()
+}
